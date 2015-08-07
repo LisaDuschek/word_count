@@ -7,7 +7,7 @@
 ## Description
 
 This app takes a String input from the user and tells them how often a word is contained in the input string.
-App can be found at https://    .herokuapp.com/
+App can be found at https:// hidden-dusk-1178.herokuapp.com
 
 ## Setup
 
