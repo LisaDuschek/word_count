@@ -14,4 +14,3 @@ get ('/result') do
     @result = @sentence.word_count(@word)
     erb(:result)
   end
-end
