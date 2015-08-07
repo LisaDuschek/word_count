@@ -14,4 +14,9 @@ describe ("String#word_count") do
     expect(("i wish every exercise was this awesome").word_count ("awesome")).to(eq(1))
   end
 
+  it("returns number '4' for the word 'butter' in the sentence 'Butter should butter only butter and butter'") do
+    expect(("Butter should butter only butter and butter").word_count ("butter")).to(eq(4))
+  end
+
+
 end
